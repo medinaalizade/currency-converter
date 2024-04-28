@@ -134,7 +134,4 @@
   handleInput(true);
   handleInput(false);
   renderCurrencyRate();
-
-  
-
-  
+//check git
