@@ -1,4 +1,4 @@
-  const token = "c3c7c29feb803c52b3948e26";
+  const token = "9132ecf3d637c8d32b39c427";
   const currencies = ["rub", "usd", "eur", "gbp"];
   let leftActiveCurrency = currencies[0];
   let rightActiveCurrency = currencies[1];
