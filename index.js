@@ -12,7 +12,7 @@
       oppositeCurrency.toUpperCase()
     ].join(" ");
   };
-
+    
   const convertCurrency = async (from, to, amount) => {
     const url = `https://v6.exchangerate-api.com/v6/${token}/latest/${from}`;
     try {
